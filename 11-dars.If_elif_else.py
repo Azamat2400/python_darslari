@@ -1,15 +1,15 @@
-# yosh = int(input("\nYoshingiz nechida? >>> "))
+yosh = int(input("\nYoshingiz nechida? >>> "))
 
-# if yosh <= 4:
-#     narx = 0
-# elif yosh <= 12:
-#     narx = 5000
-# elif yosh <= 18:
-#     narx = 8000
-# else :
-#     narx = 10000
+if yosh <= 4:
+    narx = 0
+elif yosh <= 12:
+    narx = 5000
+elif yosh <= 18:
+    narx = 8000
+else :
+    narx = 10000
 
-# print(f"\nSizga kirish {narx} so'm")
+print(f"\nSizga kirish {narx} so'm")
 
 
 # # kunni aniqlash
