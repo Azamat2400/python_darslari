@@ -1,4 +1,4 @@
-# 3-dars
+# 5-dars
 # sana: 18.04.2022
 # muallif: Azamat
 

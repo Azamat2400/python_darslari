@@ -81,14 +81,14 @@
 # else :
 #     print("\nAfsuski, bizda bunday ovqat mavjud emas.")
 
-# buyurtmani tekshirish
-menu = ['osh', 'qozonkabob', 'shashlik', 'norin', 'somsa']
-buyurtmalar = ['osh', 'somsa', 'manti', 'shashlik']
-if buyurtmalar:
-    for taom in buyurtmalar:
-         if taom in menu:
-             print(f'\nMenuda {taom} bor.')
-         else :
-             print(f'\nAfsuski menuda {taom} yo\'q.')
-else :
-    print("\nSavatchangiz bo'sh")
+# # buyurtmani tekshirish
+# menu = ['osh', 'qozonkabob', 'shashlik', 'norin', 'somsa']
+# buyurtmalar = ['osh', 'somsa', 'manti', 'shashlik']
+# if buyurtmalar:
+#     for taom in buyurtmalar:
+#          if taom in menu:
+#              print(f'\nMenuda {taom} bor.')
+#          else :
+#              print(f'\nAfsuski menuda {taom} yo\'q.')
+# else :
+#     print("\nSavatchangiz bo'sh")
